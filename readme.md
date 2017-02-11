@@ -4,7 +4,8 @@
 ---
 
 #想知道更多的话…
-<shaggon66@gmail.com> / <http://www.ceplavia.com>
+<shaggon66@gmail.com> / <http://www.ceplavia.com>  
+*(博客通常在写长文)*
 
 ---
 我觉得好像没什么好写的了。  
