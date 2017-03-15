@@ -8,8 +8,13 @@
 [点此跳转到博客](http://www.ceplavia.com) 
 *(博客通常在写长文)*
 
+---  
+*Ceplavia's one man studio.*  
+*Here "we" are, going far.*
+
 ---
 我觉得好像没什么好写的了。  
 Readme.md,  
 version 1.0, 8/2/2016  
-v1.1，17/2/2017
+v1.1，17/2/2017  
+v1.2, 15/3/2017
